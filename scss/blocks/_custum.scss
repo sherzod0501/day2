@@ -1,0 +1,47 @@
+// .gray-container {
+//     // background-color: rgb(98, 125, 255);
+// }
+
+.row {
+    margin-top: 50px;
+}
+
+.col-3 {
+    background-color: rgb(98, 125, 255);
+    color: #ffffff;
+    min-height: 100px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.col-4:last-child {
+    margin-left: none;
+}
+
+.col-9 {
+    background-color: rgb(98, 125, 255);
+    color: #ffffff;
+    min-height: 100px;
+    margin-bottom: 20px;
+}
+
+.col-4 {
+    background-color: rgb(98, 125, 255);
+    color: #ffffff;
+    min-height: 100px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+
+.col-5 {
+    background-color: rgb(98, 125, 255);
+    color: #ffffff;
+    min-height: 100px;
+}
+
+.col-2 {
+    background-color: rgb(98, 125, 255);
+    color: #ffffff;
+    min-height: 100px;
+    margin-left: 5px;
+}
